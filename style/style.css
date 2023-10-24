@@ -51,15 +51,32 @@
 
 .FKOP {
     font-family: 'Krona One', sans-serif;
-
+    /* margin-left: 90px; */
     display: flex;
     align-items: center;
     flex-direction: column;
-    
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-10%);
 }
 
-.sideTxt {
-    position: absolute;
+.sideTxt1 {
+    
     text-align: center;
+    font-size: 89px;
+
+}
+.sideTxt2 {
+    
+    text-align: center;
+    font-size: 97px;
+
+}
+
+.sideTxt3 {
+    
+    text-align: center;
+    font-size: 110px;
 
 }
