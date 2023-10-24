@@ -1,0 +1,64 @@
+.logotxt {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    
+    
+}
+
+.navBarBtns {
+    display: flex;
+    justify-content: flex-end;
+
+    text-decoration: none;
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    padding-top: 10px;
+
+
+}
+
+.logolft {
+    display: flex;
+    justify-content: left;
+}
+
+.menuOpts {
+    width: 400px;
+    display: flex;
+    justify-content: right;
+    justify-content: space-between;
+}
+
+.titleGrp {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.titletxt {
+    font-size: 7.5vw;
+    font-family: 'Krona One', sans-serif;
+    filter: drop-shadow(5px 5px 5px);
+}
+
+.luffy {
+    position: absolute;
+    width: 27%;
+    padding-top: 40px;
+    filter: drop-shadow(10px 10px 5px);
+}
+
+.FKOP {
+    font-family: 'Krona One', sans-serif;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.sideTxt {
+    text-align: center;
+
+}
