@@ -1,8 +1,9 @@
 .logotxt {
     font-family: 'Inter', sans-serif;
     font-weight: 600;
-    
-    
+    font-size: 25px;
+
+
 }
 
 .navBarBtns {
@@ -14,6 +15,7 @@
     font-family: 'Inter', sans-serif;
     font-weight: 600;
     padding-top: 10px;
+    font-size: 25px;
 
 
 }
@@ -24,7 +26,7 @@
 }
 
 .menuOpts {
-    width: 400px;
+    width: 800px;
     display: flex;
     justify-content: right;
     justify-content: space-between;
@@ -33,7 +35,7 @@
 .titleGrp {
     display: flex;
     justify-content: center;
-    
+
 }
 
 .titletxt {
@@ -62,21 +64,64 @@
 }
 
 .sideTxt1 {
-    
+
     text-align: center;
-    font-size: 89px;
+    font-size: 80px;
 
 }
+
 .sideTxt2 {
-    
+
     text-align: center;
-    font-size: 97px;
+    font-size: 90px;
 
 }
 
 .sideTxt3 {
-    
+
     text-align: center;
-    font-size: 110px;
+    font-size: 100px;
 
 }
+
+.landingQuote { 
+    font-family: 'Krona One', sans-serif;
+    font-size: 60px;
+}
+
+.quoteContainer { text-align: center;
+    display: flex;
+    float: right; 
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-10%);
+    flex-direction: column;
+    padding-right: 100px;
+    padding-top: 300px;
+}
+
+.interestImg {
+    display: flex;
+    position: absolute;
+    bottom: 0%;
+    width: 50%;
+}
+
+.pageTitle {
+    font-family: 'Krona One', sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+}
+
+.imgEats {
+    width: 75% ;
+}
+
+.interestList {
+    display: flex;
+    font-family: 'Krona One', sans-serif;
+    justify-content: end;
+    font-size: 60px;
+}
+
