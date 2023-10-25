@@ -140,3 +140,33 @@
     align-content: center;
    
 }
+
+.accompList {
+    padding-top: 40px;
+    display: flex;
+    font-family: 'Krona One', sans-serif;
+    align-items: center;
+    font-size: 50px;
+    flex-direction: column;
+    list-style-position: inside;
+    
+    text-align: center;
+}
+
+.accompList li {
+    margin-bottom: 20px;
+}
+
+.crewIMG {
+    display: flex;
+    justify-content: flex-end;
+    width: 120%;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(10%);
+    border: 5px solid black;
+    padding: 10px;
+    padding-right: 200px;
+    
+}
+
