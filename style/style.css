@@ -170,3 +170,40 @@
     
 }
 
+
+
+.center-cards {
+    display: flex;
+    
+    justify-content: space-evenly;
+}
+
+.CTCenter {
+    text-align: center;
+    font-family: 'Krona One', sans-serif;
+}
+
+.CTT {
+    font-size: 37px;
+    font-weight: 700;
+    text-shadow: 1px 2px 4px;
+    
+}
+
+.CBT {
+    font-size: 38px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.card-edit {
+    width: 100px;
+}
+
+.img-resize {
+    display: flex;
+    padding-left: 80px;
+    width: 500px;
+    
+}
+
